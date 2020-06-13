@@ -1,0 +1,26 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Company: Fourth Evolution Inc
+  Website: www.fourthevolution.com
+  Contact: info@fourthevolution.com
+
+  CEO: David Cittadini
+  Contact: david@4ei.co
+  LinkedIn: https://www.linkedin.com/in/davidcittadini/
+  Twitter: https://twitter.com/davidcittadini
+
+# THANKS
+
+# SITE
+
+    Fourth Evolution Inc
+    www.fourthevolution.com
+    Launch: May 2017
+    Redesigned: September 2018
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5

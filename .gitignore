@@ -1,0 +1,15 @@
+# David Cittadini
+# git ignore file
+# Version: 0.4.0
+
+# Ignore the macOS files
+.DS_Store
+Desktop.ini
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
+.LSOverride
+*.bak
+*.swp
+
